@@ -3,7 +3,7 @@
 A **state-of-the-art AI-powered customer care system** designed to provide intelligent, responsive, and efficient support to customers.  
 This project leverages cutting-edge **AI SDK v5** technology to create a highly scalable and customizable customer support solution suitable for modern businesses.
 
-![AI Customer Care Banner](./banner.png)
+![AI Customer Care Banner](./banner1.jpg)
 
 ---
 
